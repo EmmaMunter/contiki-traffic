@@ -84,7 +84,7 @@
 #include "dev/slip.h"
 #include "net/ip/uip.h"
 #include "net/ipv4/uip-fw.h"
-#include "net/uip-fw-drv.h"
+#include "net/ipv4/uip-fw-drv.h"
 #include "net/ipv4/uip-over-mesh.h"
 static struct uip_fw_netif slipif =
   {UIP_FW_NETIF(0,0,0,0, 255,255,255,255, slip_send)};

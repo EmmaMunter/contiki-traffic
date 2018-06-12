@@ -1,7 +1,5 @@
-The Contiki Operating System
+The Contiki Operating System - Traffic Generator
 ============================
-
-[![Build Status](https://travis-ci.org/contiki-os/contiki.svg?branch=master)](https://travis-ci.org/contiki-os/contiki/branches)
 
 Contiki is an open source operating system that runs on tiny low-power
 microcontrollers and makes it possible to develop applications that
@@ -14,6 +12,8 @@ power meters, industrial monitoring, radiation monitoring,
 construction site monitoring, alarm systems, remote house monitoring,
 and so on.
 
-For more information, see the Contiki website:
+The traffic generation app is based in the apps folder, and and the accompanying project can be found in the projects folder.
+
+For more information on Contiki, see the Contiki website:
 
 [http://contiki-os.org](http://contiki-os.org)
